@@ -1,0 +1,5 @@
+'*.{ts,tsx,js,jsx}':
+  - prettier --write
+  - eslint --cache
+'!(*.css|*.ts|*.tsx|*.js|*.jsx)':
+  - prettier --write --ignore-unknown
