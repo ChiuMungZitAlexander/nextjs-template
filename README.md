@@ -1,1 +1,1 @@
-# @flooringlabs/fe-nextjs-template
+# nextjs-template
